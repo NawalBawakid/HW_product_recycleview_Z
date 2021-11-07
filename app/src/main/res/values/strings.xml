@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW_product_recycleview</string>
+    <string name="prodact_name">Prodact name: %1$s </string>
+    <string name="price">Price: %1$s SR</string>
+</resources>
